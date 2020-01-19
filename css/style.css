@@ -318,3 +318,16 @@ container {
     background-attachment:scroll;
   }
 }
+
+
+.social-icons{
+  padding-top: 10px;
+    
+}
+
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #fff;
+  text-decoration: none;
+}
